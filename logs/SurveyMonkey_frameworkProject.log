@@ -1,0 +1,47 @@
+[INFO ] 20-11-2021 10:23:03.983 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:23:07.528 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 20-11-2021 10:23:07.691 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 20-11-2021 10:23:11.221 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 20-11-2021 10:23:12.089 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:24:21.945 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:24:25.805 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 20-11-2021 10:24:25.981 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 20-11-2021 10:24:29.069 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 20-11-2021 10:24:29.883 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:31:56.723 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:32:00.266 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 20-11-2021 10:32:00.420 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 20-11-2021 10:32:04.133 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 20-11-2021 10:32:04.996 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:42:11.118 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:42:14.615 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 20-11-2021 10:42:14.789 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 20-11-2021 10:42:18.442 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 20-11-2021 10:42:19.405 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:58:37.750 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 10:58:41.487 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 20-11-2021 10:58:41.664 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 20-11-2021 10:58:45.043 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 20-11-2021 10:58:46.041 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 11:23:51.980 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 11:23:55.395 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 20-11-2021 11:23:55.549 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 20-11-2021 11:23:58.676 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 20-11-2021 11:23:59.906 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 11:40:37.961 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 11:40:41.072 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 20-11-2021 11:40:41.209 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 20-11-2021 11:40:44.717 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 20-11-2021 11:40:45.973 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 11:58:47.451 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 20-11-2021 11:58:51.005 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 21-11-2021 12:01:23.686 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 21-11-2021 12:01:26.741 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 21-11-2021 12:01:26.884 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 21-11-2021 12:01:30.457 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 21-11-2021 12:01:31.617 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 21-11-2021 12:02:10.404 TC001_VerifyUserLogin - Application is launched successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu
+[INFO ] 21-11-2021 12:02:13.344 TC001_VerifyUserLogin - username entered  is--->parminder8684
+[INFO ] 21-11-2021 12:02:13.517 TC001_VerifyUserLogin - password entered  is--->parminder8684
+[INFO ] 21-11-2021 12:02:16.599 TC001_VerifyUserLogin - <---user has logged in successfully--->
+[INFO ] 21-11-2021 12:02:17.776 TC001_VerifyUserLogin - Application is closed successfully with url---->https://www.surveymonkey.com/user/sign-in/?ut_ctatext=Log%20in&ut_source=homepage&ut_source3=megamenu

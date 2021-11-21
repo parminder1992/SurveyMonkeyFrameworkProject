@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+ 
+ <listeners>
+ <listener class-name="com.PG.Utilities.ExtentReportManager"/>
+ </listeners>
+ 
+  <parameter name="browser" value="edge"/>
+  
+    <test thread-count="5" name="BatchExecutionTestNg">
+        <classes>
+             <class name="com.PG.testCases.TC001_VerifyUserLogin"/>
+        </classes>
+     </test> <!-- BatchExecutionTestNg -->
+</suite> <!-- RegressionSuite -->

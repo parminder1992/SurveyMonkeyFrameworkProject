@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [RegressionSuite]">
+  <parameter name="browser" value="edge"/>
+  <listeners>
+    <listener class-name="com.PG.Utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="BatchExecutionTestNg(failed)">
+    <classes>
+      <class name="com.PG.testCases.TC001_VerifyUserLogin">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="VerifyLogin"/>
+        </methods>
+      </class> <!-- com.PG.testCases.TC001_VerifyUserLogin -->
+    </classes>
+  </test> <!-- BatchExecutionTestNg(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
