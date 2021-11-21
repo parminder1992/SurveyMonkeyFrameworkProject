@@ -43,7 +43,10 @@ public class TC001_VerifyUserLogin extends BaseClass {
 		bs.CaptureScreen(driver, "VerifyLogin");	
 	}
 	
-	
+	public void verifyForgetPassword()
+	{
+		System.out.println("will try this");
+	}
 
 }
 
